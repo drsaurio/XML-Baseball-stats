@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="game.xsl" ?>
+
+<yankees>
+		<player>
+			<name>Chase Headley</name>
+			<position>3B</position>
+			<stats ab="72" bb="28" g="59" h="20"></stats>
+		</player>
+		<player>
+			<name>Enmanuel Rodriguez</name>
+			<position>DH</position>
+			<stats ab="105" bb="15" g="53" h="32"></stats>
+		</player>
+		<player>
+			<name>Austin Romine</name>
+			<position>C</position>
+			<stats ab="90" bb="38" g="62" h="31"></stats>
+		</player>
+		<player>
+			<name>Starlin Castro</name>
+			<position>2B</position>
+			<stats ab="240" bb="45" g="70" h="52"></stats>
+		</player>
+		<player>
+			<name> Jacoby Ellsbury</name>
+			<position>CF</position>
+			<stats ab="210" bb="63" g="62" h="39"></stats>
+		</player>
+		<player>
+			<name>Carlos Beltran</name>
+			<position>RF</position>
+			<stats ab="206" bb="55" g="72" h="49"></stats>
+		</player>
+		<player>
+			<name>Brett Gardner</name>
+			<position>LF</position>
+			<stats ab="176" bb="42" g="64" h="32"></stats>
+		</player>
+		<player>
+			<name>Mark Texixera</name>
+			<position>1B</position>
+			<stats ab="154" bb="52" g="70" h="58"></stats>
+		</player>
+		<player>
+			<name>Didi Gregorius</name>
+			<position>SS</position>
+			<stats ab="170" bb="36" g="76" h="45"></stats>
+		</player>
+
+</yankees>
